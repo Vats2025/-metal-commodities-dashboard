@@ -122,6 +122,7 @@ This project sits at the intersection of materials engineering and data analytic
 
 ## Project Structure
 
+```
 metal-commodities-dashboard/
 │
 ├── metal_dashboard.ipynb
@@ -141,6 +142,7 @@ metal-commodities-dashboard/
 ├── dashboard_page1_overview.png
 ├── dashboard_page2_correlation.png
 └── dashboard_page3_india_steel.png
+```
 
 ---
 
