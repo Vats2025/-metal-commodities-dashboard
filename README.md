@@ -121,3 +121,32 @@ This project sits at the intersection of materials engineering and data analytic
 ---
 
 ## Project Structure
+
+metal-commodities-dashboard/
+│
+├── metal_dashboard.ipynb
+│
+├── data/
+│   ├── powerbi/
+│   │   ├── main_analysis.csv
+│   │   ├── india_steel.csv
+│   │   └── correlations.csv
+│   └── charts/
+│       ├── 01_metal_price_trends.png
+│       ├── 02_correlation_heatmap.png
+│       ├── 03_copper_vs_usd.png
+│       ├── 04_aluminium_vs_crude.png
+│       └── 05_rolling_volatility.png
+│
+├── dashboard_page1_overview.png
+├── dashboard_page2_correlation.png
+└── dashboard_page3_india_steel.png
+
+---
+
+## Author
+
+**Khushboo Vats**
+B.Tech Metallurgical & Materials Engineering — VNIT Nagpur (2023–2027)
+
+[LinkedIn](https://www.linkedin.com/in/khushboo-vats-593882249/) | [GitHub](https://github.com/Vats2025)
