@@ -1,0 +1,10 @@
+Metal,Macro,Correlation,Strength,Direction
+Copper,USD Index,0.289,Weak,Positive
+Copper,Crude Oil,0.541,Moderate,Positive
+Copper,CPI,0.813,Strong,Positive
+Aluminium,USD Index,0.067,Negligible,Positive
+Aluminium,Crude Oil,0.707,Strong,Positive
+Aluminium,CPI,0.541,Moderate,Positive
+Zinc,USD Index,-0.58,Moderate,Negative
+Zinc,Crude Oil,-0.155,Weak,Negative
+Zinc,CPI,-0.53,Moderate,Negative
